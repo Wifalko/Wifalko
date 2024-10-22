@@ -50,11 +50,3 @@
 </p>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
-</p>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" /> 
-</p>
-
