@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Michal Wiewiorwski</h1>
-<h3 align="center">Data Analyst and AI engineer</h3>
+<h3 align="center">Applied Mathematics Student at Wrocław University of Science and Technology</h3>
+<h5 align="center">Data Analyst and AI engineer</h5>
 
 - 🔭 I’m currently working on **MovieLens recommender**
 
