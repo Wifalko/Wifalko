@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michal Wiewiorwski</h1>
-<h3 align="center">3rd Year Applied Mathematics Student at Wrocław University of Science and Technology</h3>
+<h3 align="center">Applied Mathematics Student at Wrocław University of Science and Technology</h3>
 <h4 align="center">Data Analyst and AI Engineer</h4>
 
 <p align="center">
