@@ -8,9 +8,6 @@
 
 <p align="center">🚀 Passionate about data-driven solutions and artificial intelligence</p>
 
-- 🔭 I’m currently working on **Bachelor's degree project**  
-- 🌱 I’m learning Scikit-learn and TensorFlow in Python to enhance my ability to build and optimize advanced recommender systems, making them more efficient and accurate in predicting user preferences
-- ⚡ Interests: I'm passionate about various sports, including basketball, football, and running. I also enjoy reading books on technology, data science, and personal development. In my free time, I love exploring the world of automobiles and staying updated on the latest advancements in car engineering and design.
 
 ---
 
